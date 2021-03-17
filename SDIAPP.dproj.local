@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/16 12:35:36.742.dfm,C:\Users\Frank EF\Documents\RAD Studio\Projects\Nova pasta\frmPedido.dfm=C:\Users\Frank EF\Documents\RAD Studio\Projects\Nova pasta\Unit1.dfm</Transaction>
+    <Transaction>2021/03/16 12:35:36.742.pas,C:\Users\Frank EF\Documents\RAD Studio\Projects\Nova pasta\frmPedido.pas=C:\Users\Frank EF\Documents\RAD Studio\Projects\Nova pasta\Unit1.pas</Transaction>
+    <Transaction>2021/03/16 13:28:57.069.pas,C:\Users\Frank EF\Documents\RAD Studio\Projects\Nova pasta\dmFWK.pas=C:\Users\Frank EF\Documents\RAD Studio\Projects\Nova pasta\Unit1.pas</Transaction>
+    <Transaction>2021/03/16 13:28:57.069.dfm,C:\Users\Frank EF\Documents\RAD Studio\Projects\Nova pasta\dmFWK.dfm=C:\Users\Frank EF\Documents\RAD Studio\Projects\Nova pasta\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
